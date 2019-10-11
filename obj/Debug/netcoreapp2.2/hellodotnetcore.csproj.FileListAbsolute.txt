@@ -1,0 +1,14 @@
+C:\temp\hellodotnetcore\bin\Debug\netcoreapp2.2\hellodotnetcore.deps.json
+C:\temp\hellodotnetcore\bin\Debug\netcoreapp2.2\hellodotnetcore.runtimeconfig.json
+C:\temp\hellodotnetcore\bin\Debug\netcoreapp2.2\hellodotnetcore.runtimeconfig.dev.json
+C:\temp\hellodotnetcore\bin\Debug\netcoreapp2.2\hellodotnetcore.dll
+C:\temp\hellodotnetcore\bin\Debug\netcoreapp2.2\hellodotnetcore.pdb
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.csprojAssemblyReference.cache
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.csproj.CoreCompileInputs.cache
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.RazorAssemblyInfo.cache
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.RazorAssemblyInfo.cs
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.AssemblyInfoInputs.cache
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.AssemblyInfo.cs
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.RazorTargetAssemblyInfo.cache
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.dll
+C:\temp\hellodotnetcore\obj\Debug\netcoreapp2.2\hellodotnetcore.pdb
